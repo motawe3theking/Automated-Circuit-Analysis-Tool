@@ -27,7 +27,7 @@ Developed as an academic project, this tool streamlines circuit analysis by auto
    The resulting matrix can then be used for further circuit analysis or simulation.
 ## Installation and Requirements
 
-- **MATLAB:** This project is developed in MATLAB. Ensure you have MATLAB installed (R20XX or later recommended).
+- **MATLAB:** This project is developed in MATLAB. Ensure you have MATLAB installed.
 - **Dependencies:** No additional toolboxes are required.
 - **Download/Clone:**  
   ```bash
